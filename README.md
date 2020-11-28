@@ -1,16 +1,13 @@
-### Hi there 👋
+**Hello, I'm Magzhan! Welcome to my GitHub profile**
 
-<!--
-**Kydyralin/kydyralin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is some information about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working at Arcadia JSC as a full-stack web developer
+- Technologies that I like: Flutter, .NET, Angular
+- How to reach me: [LinkedIn](www.linkedin.com/in/kydyralin)
+- Technologies which I worked with:
+  - .NET
+  - JavaScript/TypeScript (AngularJS, React)
+  - RDBMS (Oracle, MS Sql Server, PostgreSql)
+  - WordPress
+  - Flutter
